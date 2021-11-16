@@ -1,0 +1,6 @@
+C:\Users\11ºF\Desktop\Nova pasta\Aula1 1\obj\Debug\Aula1 1.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Nova pasta\Aula1 1\bin\Debug\Aula1 1.exe.config
+C:\Users\11ºF\Desktop\Nova pasta\Aula1 1\bin\Debug\Aula1 1.exe
+C:\Users\11ºF\Desktop\Nova pasta\Aula1 1\bin\Debug\Aula1 1.pdb
+C:\Users\11ºF\Desktop\Nova pasta\Aula1 1\obj\Debug\Aula1 1.exe
+C:\Users\11ºF\Desktop\Nova pasta\Aula1 1\obj\Debug\Aula1 1.pdb
